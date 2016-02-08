@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Neil Torres\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-fd852c16afbd012f5fe4968123e80ff330041e37.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-c60a3a65b2d4cf5803981f0621ff17b6a1ebbe43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neil Torres\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\library-2.4.0-a224292967424ac34945d10ae4b37f6ceddf66fc.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-eaf5106c9f74c5b96944448aef669660a256d283.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-d40a64b1ebaecd20ccec5e22288516a3f7a92de9.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-dragdrop\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51946b4ca8e38b3be550798723faf47dacb3a444">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-34885493520c768aad8b42a2335d92eb1cc1ce49.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-19d7283e1c0bd40eebf213fec342544c0f27ee3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neil Torres\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\63737e512fcd9e0ebe9bcd0bb375c2dded74116f\lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\lib-manipulation-3.1.0-e330b1c219e58ecf4d75e12e9ce555ca4e249ec2.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ec1d846000db2b979dac2159584f027195a8174">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-e860ba24f94a5403b9abf2e15866cfd29e3b6320.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-ec008058415560c581905d7a6db4aa8a26da9c32.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-5911a99019a59b3632d69d52129924df690166d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neil Torres\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\lib-core-3.1.0-639a359722e4c1cae90885b29bd274380edff571.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-842d4a5b29b231e2e405703248181fdb7a6d3838.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-7c4a494c08004ea6d5e06d735baa5ec117b94b80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neil Torres\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1-dcd9a781f7fbe950ffa21c3922b5b1ef41ba6b20.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-64314306a017fbb4bb9679d535be5492f9af90d6.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-17bc3cf601bbd36183d6cbf6f672c99656294b3d.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\Comunio\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-staggeredgrid\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="50229116d50d9475f4a9fc4d497845aa18e9518f">
+        <dex dex="C:\Android\sdk\Comunio\app\build\intermediates\pre-dexed\debug\classes-238127bbdaf910f5050cf23cb36164a1ac78e69b.jar" />
+    </item>
+
+</items>
