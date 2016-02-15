@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="\n\n\n\n\n\n\n\n\n\n\n  Últimos jugadores puestos en venta\n\n\n          ➤ Vendido por:          2400000 €"
+        android:id="@+id/textView2"
+        android:textColor="@color/tabsScrollColor"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="\n  Últimos jugadores comprados\n\n          ➤ Comprado por:      3450000 €"
+        android:id="@+id/textView"
+        android:textColor="@color/tabsScrollColor"
+        android:layout_centerHorizontal="true" />
+
+
+
+
+
+</RelativeLayout><!-- From: file:/C:/Users/sergi/Desktop/Comunio/app/src/main/res/layout/tab_3.xml -->

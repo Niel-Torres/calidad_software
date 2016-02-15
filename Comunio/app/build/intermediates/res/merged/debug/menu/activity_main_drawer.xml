@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_item_inicio"
+            android:title="@string/item_inicio"
+            android:icon="@drawable/icon_home"/>
+        <item android:id="@+id/nav_item_equipo"
+            android:title="@string/item_equipo"
+            android:icon="@drawable/icon_team"/>
+        <item android:id="@+id/nav_item_mercado"
+            android:title="@string/item_mercado"
+            android:icon="@drawable/icon_market"/>
+        <item android:id="@+id/nav_item_liga"
+            android:title="@string/item_liga"
+            android:icon="@drawable/icon_cup"/>
+        <item android:id="@+id/nav_item_micuenta"
+            android:title="@string/item_micuenta"
+            android:icon="@drawable/icon_account"/>
+    </group>
+
+    <item android:title="@string/datos">
+        <menu>
+            <item android:id="@+id/nav_item_reglas"
+                android:title="@string/item_reglas"
+                android:icon="@drawable/icon_rules"/>
+            <item android:id="@+id/nav_item_politicaprivacidad"
+                android:title="@string/item_politicaprivacidad"
+                android:icon="@drawable/icon_private"/>
+        </menu>
+    </item>
+
+</menu><!-- From: file:/C:/Users/sergi/Desktop/Comunio/app/src/main/res/menu/activity_main_drawer.xml -->

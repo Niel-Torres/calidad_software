@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/primerItem4"
+        android:title="Cristiano Ronaldo"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/segundoItem4"
+        android:title="Benzema"
+        android:orderInCategory="101"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/tercerItem4"
+        android:title="Bale"
+        android:orderInCategory="102"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/cuartoItem4"
+        android:title="James"
+        android:orderInCategory="103"
+        app:showAsAction="always" />
+</menu><!-- From: file:/C:/Users/sergi/Desktop/Comunio/app/src/main/res/menu/pop_up_4.xml -->
