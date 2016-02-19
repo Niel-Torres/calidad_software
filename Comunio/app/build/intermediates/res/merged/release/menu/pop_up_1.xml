@@ -1,9 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto">
-
-    <item android:id="@+id/primerItem1"
-        android:title="Cristiano Ronaldo"
-        android:orderInCategory="100"
-        app:showAsAction="always" />
-
-</menu><!-- From: file:/C:/Users/sergi/Desktop/Comunio/app/src/main/res/menu/pop_up_1.xml -->

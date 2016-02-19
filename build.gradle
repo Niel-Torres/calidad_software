@@ -1,0 +1,32 @@
+
+import org.ajoberstar.grgit.*
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.3.0'
+		classpath 'org.ajoberstar:gradle-git:1.4.2'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+task clone {
+	Grgit.clone(dir: './proyecto', uri: 'https://github.com/nieltorres/calidad_software.git')
+	Grgit.init(dir: './proyecto')
+}
+
+task pull {
+	dev repo = Grgit.open(project.file('.'))
+	repo.pull()
+}

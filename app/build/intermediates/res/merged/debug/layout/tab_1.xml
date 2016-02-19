@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp"
+    tools:context=".EquipoActivity">
+
+
+    <ImageView
+        android:src="@drawable/soccer_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/rsz_1player"
+        android:background="@drawable/circle"
+        android:id="@+id/imageButton"
+        android:layout_gravity="right|bottom"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <RelativeLayout
+        android:id="@+id/alineacion_442"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:text=""
+            android:onClick="showPopUpDelanteros"
+            android:textSize="12sp"
+            android:id="@+id/button1"
+            android:layout_marginTop="47dp"
+            android:layout_marginStart="41dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button2"
+            android:layout_alignTop="@+id/button1"
+            android:layout_toEndOf="@+id/button1"
+            android:layout_marginStart="37dp" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button3"
+            android:layout_marginTop="74dp"
+            android:layout_marginEnd="19dp"
+            android:layout_below="@+id/button1"
+            android:layout_alignEnd="@+id/button4" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button4"
+            android:layout_marginTop="11dp"
+            android:layout_below="@+id/button3"
+            android:layout_toStartOf="@+id/button2" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button5"
+            android:layout_alignTop="@+id/button4"
+            android:layout_alignStart="@+id/button2" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button6"
+            android:layout_marginEnd="17dp"
+            android:layout_above="@+id/button4"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button7"
+            android:layout_marginTop="32dp"
+            android:layout_below="@+id/button4"
+            android:layout_alignStart="@+id/button3" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button8"
+            android:layout_marginTop="6dp"
+            android:layout_below="@+id/button7"
+            android:layout_alignStart="@+id/button4"
+            android:layout_marginStart="6dp" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button9"
+            android:layout_marginEnd="9dp"
+            android:layout_alignTop="@+id/button8"
+            android:layout_alignEnd="@+id/button5" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button10"
+            android:layout_alignTop="@+id/button7"
+            android:layout_alignStart="@+id/button6" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpPorteros"
+            android:text=""
+            android:textSize="12sp"
+            android:id="@+id/button11"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/alineacion_433"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text="Benzema"
+            android:textSize="12sp"
+            android:id="@+id/button12"
+            android:layout_marginTop="22dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text="Cristiano Ronaldo"
+            android:textSize="12sp"
+            android:id="@+id/button13"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="18dp"
+            android:layout_below="@+id/button12"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text="Gareth Bale"
+            android:textSize="12sp"
+            android:id="@+id/button14"
+            android:layout_marginEnd="17dp"
+            android:layout_alignTop="@+id/button13"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="Xabi Alonso"
+            android:textSize="12sp"
+            android:id="@+id/button15"
+            android:layout_marginTop="43dp"
+            android:layout_below="@+id/button13"
+            android:layout_alignStart="@+id/button12" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="Luka Modric"
+            android:textSize="12sp"
+            android:id="@+id/button16"
+            android:layout_below="@+id/button15"
+            android:layout_alignStart="@+id/button13"
+            android:layout_marginTop="11dp" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="Di Maria"
+            android:textSize="12sp"
+            android:id="@+id/button17"
+            android:layout_alignTop="@+id/button16"
+            android:layout_alignStart="@+id/button14" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Marcelo"
+            android:textSize="12sp"
+            android:id="@+id/button18"
+            android:layout_marginTop="38dp"
+            android:layout_below="@+id/button16"
+            android:layout_alignStart="@+id/button16" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Carvajal"
+            android:textSize="12sp"
+            android:id="@+id/button19"
+            android:layout_alignTop="@+id/button18"
+            android:layout_alignStart="@+id/button17" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Sergio Ramos"
+            android:textSize="12sp"
+            android:id="@+id/button20"
+            android:layout_marginTop="9dp"
+            android:layout_below="@+id/button18"
+            android:layout_alignStart="@+id/button18"
+            android:layout_marginStart="27dp" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Pepe"
+            android:textSize="12sp"
+            android:id="@+id/button21"
+            android:layout_marginStart="25dp"
+            android:layout_alignTop="@+id/button20"
+            android:layout_toEndOf="@+id/button20" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpPorteros"
+            android:text="Keylor Navas"
+            android:textSize="12sp"
+            android:id="@+id/button22"
+            android:layout_marginBottom="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignStart="@+id/button15" />
+
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/alineacion_343"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text="Benzema"
+            android:textSize="12sp"
+            android:id="@+id/button23"
+            android:layout_marginTop="21dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text="Cristiano Ronaldo"
+            android:textSize="12sp"
+            android:id="@+id/button24"
+            android:layout_marginTop="12dp"
+            android:layout_marginStart="21dp"
+            android:layout_below="@+id/button23"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDelanteros"
+            android:text="Gareth Bale"
+            android:textSize="12sp"
+            android:id="@+id/button25"
+            android:layout_marginEnd="19dp"
+            android:layout_alignTop="@+id/button24"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="James"
+            android:textSize="12sp"
+            android:id="@+id/button26"
+            android:layout_marginTop="41dp"
+            android:layout_below="@+id/button24"
+            android:layout_alignStart="@+id/button24" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="Modric"
+            android:textSize="12sp"
+            android:id="@+id/button27"
+            android:layout_alignTop="@+id/button26"
+            android:layout_alignStart="@+id/button25" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="Varane"
+            android:textSize="12sp"
+            android:id="@+id/button28"
+            android:layout_marginStart="27dp"
+            android:layout_centerVertical="true"
+            android:layout_alignStart="@+id/button26" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpMedios"
+            android:text="Tony Kroos"
+            android:textSize="12sp"
+            android:id="@+id/button29"
+            android:layout_alignTop="@+id/button28"
+            android:layout_toEndOf="@+id/button28"
+            android:layout_marginStart="24dp" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Marcelo"
+            android:textSize="12sp"
+            android:id="@+id/button30"
+            android:layout_marginTop="46dp"
+            android:layout_below="@+id/button28"
+            android:layout_alignStart="@+id/button26" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Sergio Ramos"
+            android:textSize="12sp"
+            android:id="@+id/button31"
+            android:layout_alignTop="@+id/button30"
+            android:layout_alignStart="@+id/button27" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpDefensas"
+            android:text="Pepe"
+            android:textSize="12sp"
+            android:id="@+id/button32"
+            android:layout_marginTop="6dp"
+            android:layout_below="@+id/button30"
+            android:layout_alignStart="@+id/button33" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_player"
+            android:onClick="showPopUpPorteros"
+            android:text="Keylor Navas"
+            android:textSize="12sp"
+            android:id="@+id/button33"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="13dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
+<!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/layout/tab_1.xml -->
