@@ -22,11 +22,23 @@ task clean(type: Delete) {
 }
 
 task clone {
-	Grgit.clone(dir: './proyecto', uri: 'https://github.com/nieltorres/calidad_software.git')
-	Grgit.init(dir: './proyecto')
+	doLast{
+		Grgit.clone(dir: './proyecto', uri: 'https://github.com/nieltorres/calidad_software.git')
+	}
 }
 
 task pull {
-	dev repo = Grgit.open(project.file('.'))
-	repo.pull()
+	doLast{
+		def repo = Grgit.open(project.file('.'))
+		repo.pull()
+	}
+}
+
+task push {
+	doLast{
+		def repo = Grgit.open(project.file('.'))
+		repo.checkout(branch: 'gradle', createBranch: true)
+		repo.commit(message: 'Actualizacion', all: true)
+		repo.push()
+	}
 }
