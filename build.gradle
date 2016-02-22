@@ -38,7 +38,7 @@ task push {
 	doLast{
 		def repo = Grgit.open(project.file('.'))
 		repo.checkout(branch: 'gradle', createBranch: true)
-		repo.commit(message: 'Actualizacion', all: true)
+		repo.commit(message: 'Prueba', all: true)
 		repo.push()
 		repo.checkout(branch: 'master')
 		repo.branch.remove(names: ['gradle'], force: true)
