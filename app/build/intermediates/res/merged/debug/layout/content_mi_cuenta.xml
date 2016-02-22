@@ -114,4 +114,4 @@
         android:layout_alignTop="@+id/textView6"
         android:layout_alignParentEnd="true" />
 </RelativeLayout>
-<!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/layout/content_mi_cuenta.xml -->
+<!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/layout/content_mi_cuenta.xml -->

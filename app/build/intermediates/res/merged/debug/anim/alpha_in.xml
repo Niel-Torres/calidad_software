@@ -4,4 +4,4 @@
         android:fromAlpha="0.2"
         android:toAlpha="1.0"
         android:duration="320"/>
-</set><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/anim/alpha_in.xml -->
+</set><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/anim/alpha_in.xml -->

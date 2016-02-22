@@ -27,4 +27,4 @@
              android:topLeftRadius="@dimen/card_background_default_radius"
              android:topRightRadius="@dimen/card_background_default_radius"/>
     <solid android:color="@android:color/white" />
-</shape><!-- From: file:/home/gabriele/Lavoro/Android/AndroidStudioProjects/wrks/cardslib/library-cards/src/main/res/drawable/topcolored_bg.xml --><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/drawable/topcolored_bg.xml -->
+</shape><!-- From: file:/home/gabriele/Lavoro/Android/AndroidStudioProjects/wrks/cardslib/library-cards/src/main/res/drawable/topcolored_bg.xml --><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/drawable/topcolored_bg.xml -->

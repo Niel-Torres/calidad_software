@@ -9,4 +9,4 @@
         android:fromAlpha="1.0"
         android:toAlpha="0.0"
         android:duration="180"/>
-</set><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/anim/popup_hide.xml -->
+</set><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/anim/popup_hide.xml -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -32,15 +32,15 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="card_activated">#CFE9F3</color>
     <color name="card_activated_kitkat">#ADE1F4</color>
     <color name="card_background">#FFF</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="card_backgroundExpand">#ffffff</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="card_background_header">#FFF</color>
     <color name="card_base_cardwithlist_background_list_color">#10000000</color>
@@ -56,32 +56,32 @@
     <color name="card_section_container_color">#10000000</color>
     <color name="card_section_title_color">@android:color/black</color>
     <color name="card_text_color_header">#000</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="card_thumbnail_image_text_over_textcolor">#FFF</color>
     <color name="card_topcolored_subtitle_textcolor">#80FFFFFF</color>
     <color name="card_topcolored_title_textcolor">#FFF</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="card_undobar_material_background_color">#323232</color>
     <color name="card_undobar_material_text_color">#4CAF50</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="carddemo_halfcolored_color">#109D58</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="cardview_dark_background">#FF202020</color>
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#ff99cc00</color>
     <color name="colorPrimaryClear">#6399CC00</color>
     <color name="colorPrimaryClearNoAlpha">#e4ff92</color>
     <color name="colorPrimaryDark">#ff669900</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -92,7 +92,7 @@
     <color name="design_fab_stroke_top_outer_color">#2EFFFFFF</color>
     <color name="design_snackbar_background_color">#323232</color>
     <color name="design_textinput_error_color">#FFDD2C00</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -100,19 +100,19 @@
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="greenClearCard">#FFF4FFDD</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="iron">#CCCCCC</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -126,10 +126,10 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="pinkClearCard">#FFFFDDE8</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -149,7 +149,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="tabsScrollColor">#004D40</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -200,7 +200,7 @@
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="card_listItem"><attr format="dimension" name="card_list_item_dividerHeight"/></declare-styleable>
     <declare-styleable name="card_options"><attr format="reference" name="card_layout_resourceID"/><attr format="reference" name="card_shadow_layout_resourceID"/><attr format="reference" name="card_header_layout_resourceID"/><attr format="reference" name="card_thumbnail_layout_resourceID"/><attr format="reference" name="list_card_layout_resourceID"/><attr format="reference" name="list_card_layout_resourceIDs"/></declare-styleable>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -269,19 +269,19 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="actions_icon_height">54dp</dimen>
     <dimen name="actions_icon_width">54dp</dimen>
     <dimen name="actions_padding">16dp</dimen>
     <dimen name="actions_padding_left">8dp</dimen>
     <dimen name="actions_textsize">14sp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="appbar_padding_top">8dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_background_default_radius">2dp</dimen>
     <dimen name="card_base_cardwithlist_dividerHeight">1dp</dimen>
@@ -347,13 +347,13 @@
     <dimen name="card_main_content_native_default_paddingLeft">12dp</dimen>
     <dimen name="card_main_content_native_default_paddingRight">12dp</dimen>
     <dimen name="card_main_content_native_default_paddingTop">12dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_main_content_native_material_large_image_paddingBottom">16dp</dimen>
     <dimen name="card_main_content_native_material_large_image_paddingLeft">16dp</dimen>
     <dimen name="card_main_content_native_material_large_image_paddingRight">16dp</dimen>
     <dimen name="card_main_content_native_material_large_image_paddingTop">16dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_main_content_native_simple_title_text_size">16sp</dimen>
     <dimen name="card_main_layout_native_view_margin_bottom">0dp</dimen>
@@ -370,10 +370,10 @@
     <dimen name="card_main_simple_title_margin_left">5dp</dimen>
     <dimen name="card_main_simple_title_margin_right">0dp</dimen>
     <dimen name="card_main_simple_title_margin_top">0dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_material_largeimage_height">200dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_section_container_padding_left">15dp</dimen>
     <dimen name="card_section_container_padding_right">15dp</dimen>
@@ -385,29 +385,29 @@
     <dimen name="card_shadow_view_margin_right">@dimen/card_background_default_radius</dimen>
     <dimen name="card_shadow_view_margin_top">0dp</dimen>
     <dimen name="card_thumbnail_height">72dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_thumbnail_image_text_over_padding_bottom">16dp</dimen>
     <dimen name="card_thumbnail_image_text_over_padding_left">16dp</dimen>
     <dimen name="card_thumbnail_image_text_over_padding_right">16dp</dimen>
     <dimen name="card_thumbnail_image_text_over_padding_top">16dp</dimen>
     <dimen name="card_thumbnail_image_text_over_textsize">24sp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_thumbnail_width">72dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="card_topcolored_layout_minHeigth">72dp</dimen>
     <dimen name="card_topcolored_layout_padding">16dp</dimen>
     <dimen name="card_topcolored_subtitle_paddingtop">18dp</dimen>
     <dimen name="card_topcolored_subtitle_textsize">14dp</dimen>
     <dimen name="card_topcolored_title_textsize">22dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_fab_border_width">0.5dp</dimen>
@@ -435,28 +435,28 @@
     <dimen name="design_snackbar_text_size">14sp</dimen>
     <dimen name="design_tab_max_width">264dp</dimen>
     <dimen name="design_tab_min_width">72dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="fab_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="grid_card_padding_bottom">2dp</dimen>
     <dimen name="grid_card_padding_left">2dp</dimen>
     <dimen name="grid_card_padding_right">2dp</dimen>
     <dimen name="grid_card_padding_top">2dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="list_card_padding_bottom">6dp</dimen>
     <dimen name="list_card_padding_left">8dp</dimen>
@@ -470,11 +470,11 @@
     <dimen name="native_recyclerview_card_margin_left">0dp</dimen>
     <dimen name="native_recyclerview_card_margin_right">0dp</dimen>
     <dimen name="native_recyclerview_card_margin_top">6dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="nav_header_height">160dp</dimen>
     <dimen name="nav_header_vertical_spacing">16dp</dimen>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -485,35 +485,35 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="view_offset_helper" type="id"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="design_snackbar_text_max_lines">2</integer>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="list_card_swipe_distance_divisor">2</integer>
     <integer name="list_card_undobar_hide_delay">5000</integer>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <plurals name="card_selected_items">
         <item quantity="one">1 item selected</item>
@@ -523,7 +523,7 @@
         <item quantity="one">1 card removed</item>
         <item quantity="other">%d cards removed</item>
     </plurals>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -544,39 +544,39 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_cerrarsesion">Cerrar sesión</string>
     <string name="action_idioma">Idioma</string>
     <string name="action_settings">Settings</string>
     <string name="app_name" translatable="false">Comunio</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="card_empty_cardwithlist_text">No data....</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="card_native_font_fontFamily_header">sans-serif</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="card_native_font_fontFamily_top_colored">sans-serif</string>
     <string name="card_native_progressbar_text">Loading...</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="card_progressbar_cardwithlist_text">Loading data...</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="datos">Más:</string>
     <string name="equipo_alineacion">Alineación</string>
     <string name="equipo_fichajes">Fichajes</string>
     <string name="equipo_jugadores">Jugadores</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="font_fontFamily_medium">sans-serif</string>
     <string name="font_fontFamily_regular">sans-serif</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="foto_aduriz">http://thumb.resfu.com/img_data/players/medium/27116.jpg?size=120x&amp;3</string>
     <string name="foto_arbeloa">http://thumb.resfu.com/img_data/players/medium/66.jpg?size=120x&amp;3</string>
@@ -626,10 +626,10 @@
     <string name="item_micuenta">Mi Cuenta</string>
     <string name="item_politicaprivacidad">Política de privacidad</string>
     <string name="item_reglas">Reglas de juego</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="list_card_undo_title">Undo</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta cursus nibh et ullamcorper. Integer vehicula, felis a mattis suscipit, tellus tellus luctus nibh, vel efficitur ex erat at velit. Nam vulputate nunc id leo faucibus euismod. Donec condimentum purus dignissim, bibendum libero congue, lacinia erat. Duis pharetra laoreet mauris, condimentum semper eros placerat vel. Ut laoreet nisl non sapien pharetra, a pharetra lacus aliquam. Mauris maximus eu elit et vestibulum. Ut euismod cursus maximus.</string>
     <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
@@ -663,10 +663,10 @@
                                 Todo proceso de contratación o que conlleve la introducción de datos personales de carácter alto (salud, ideología,…) serán siempre transmitidos mediante protocolo de comunicación segura (Https://,…), de tal forma que ningún tercero tenga acceso a la información transmitida vía electrónica.
     </string>
     <string name="section_format">Hello World from section: %1$d</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="text_toast">Botón Alineación pulsado</string>
     <string name="title_activity_equipo">Equipo</string>
@@ -677,13 +677,13 @@
     <string name="title_activity_mi_cuenta2">Mi Cuenta</string>
     <string name="title_activity_politica_privacidad">Política de privacidad</string>
     <string name="title_activity_reglas">Reglas de juego</string>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AnimationPopup">
         <item name="android:windowEnterAnimation">@anim/popup_show</item>
@@ -706,7 +706,7 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1643,7 +1643,7 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.Design.TabLayout" parent="android:Widget">
         <item name="tabMaxWidth">@dimen/design_tab_max_width</item>
@@ -1655,7 +1655,7 @@
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="CardView">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
@@ -1671,7 +1671,7 @@
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1873,7 +1873,7 @@
     </style>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="TextAppearance.AppCompat.Display1">
         <item name="android:textColor">?android:attr/textColorPrimary</item>
@@ -1893,7 +1893,7 @@
         <item name="android:textColor">?android:textColorSecondary</item>
         <item name="textAllCaps">true</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
@@ -2026,7 +2026,7 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.Design.AppBarLayout" parent="android:Widget">
         <item name="elevation">@dimen/design_appbar_elevation</item>
@@ -2075,7 +2075,7 @@
         <item name="hintTextAppearance">@style/TextAppearance.Design.Hint</item>
         <item name="errorTextAppearance">@style/TextAppearance.Design.Error</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card">
         <!-- this style should be empty -->
@@ -2174,7 +2174,7 @@
     <style name="card.native">
         <!-- this style should be empty -->
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card.native.actions">
         <item name="android:textSize">@dimen/actions_textsize</item>
@@ -2183,7 +2183,7 @@
         <item name="android:layout_height">@dimen/actions_icon_height</item>
         <item name="android:layout_width">@dimen/actions_icon_width</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card.native.base_simple_title">
         <item name="android:textStyle">bold</item>
@@ -2302,7 +2302,7 @@
         <item name="android:layout_marginLeft">@dimen/card_main_layout_native_view_margin_left</item>
         <item name="android:layout_marginRight">@dimen/card_main_layout_native_view_margin_right</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card.native.material_large_image_content_outer_layout" parent="card.native.content_outer_layout">
         <item name="android:paddingLeft">@dimen/card_main_content_native_material_large_image_paddingLeft</item>
@@ -2310,12 +2310,12 @@
         <item name="android:paddingTop">@dimen/card_main_content_native_material_large_image_paddingTop</item>
         <item name="android:paddingBottom">@dimen/card_main_content_native_material_large_image_paddingBottom</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card.native.thumbnail_compound_view">
 
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card.native.top_colored_layout">
         <item name="android:minHeight">@dimen/card_topcolored_layout_minHeigth</item>
@@ -2340,7 +2340,7 @@
         <item name="android:textColor">@color/card_topcolored_title_textcolor</item>
         <item name="android:layout_gravity">left|center_vertical</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card.shadow_image">
         <item name="android:layout_width">match_parent</item>
@@ -2387,13 +2387,13 @@
         <item name="android:gravity">center</item>
         <item name="android:scaleType">centerCrop</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="card_thumbnail_image_text_over_textstyle">
         <item name="android:textColor">@color/card_thumbnail_image_text_over_textcolor</item>
         <item name="android:textSize">@dimen/card_thumbnail_image_text_over_textsize</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="card_thumbnail_outer_layout">
         <item name="android:layout_width">wrap_content</item>
@@ -2401,7 +2401,7 @@
         <item name="android:paddingLeft">15dp</item>
         <item name="android:paddingRight">15dp</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="cardwithlist">
         <item name="android:layout_marginTop">@dimen/card_base_cardwithlist_list_margin_top</item>
@@ -2580,7 +2580,7 @@
         <item name="android:clipToPadding">false</item>
         <item name="android:scrollbarStyle">outsideOverlay</item>
     </style>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-recyclerview/2.1.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-recyclerview/2.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="native_recyclerview_card">
         <item name="android:layout_marginLeft">@dimen/native_recyclerview_card_margin_left</item>

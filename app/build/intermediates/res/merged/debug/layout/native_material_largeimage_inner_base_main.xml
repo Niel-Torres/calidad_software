@@ -41,4 +41,4 @@
         android:id="@+id/card_main_inner_simple_subtitle"
         style="@style/card.native.base_simple_title"/>
 
-</LinearLayout><!-- From: file:/home/gabriele/Lavoro/Android/AndroidStudioProjects/wrks/cardslib/library-cards/src/main/res/layout/native_material_largeimage_inner_base_main.xml --><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/layout/native_material_largeimage_inner_base_main.xml -->
+</LinearLayout><!-- From: file:/home/gabriele/Lavoro/Android/AndroidStudioProjects/wrks/cardslib/library-cards/src/main/res/layout/native_material_largeimage_inner_base_main.xml --><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/res/layout/native_material_largeimage_inner_base_main.xml -->

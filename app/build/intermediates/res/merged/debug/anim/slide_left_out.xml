@@ -4,4 +4,4 @@
         android:duration="320"
         android:fromXDelta="0"
         android:toXDelta="-100%p" />
-</set><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/anim/slide_left_out.xml -->
+</set><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/anim/slide_left_out.xml -->

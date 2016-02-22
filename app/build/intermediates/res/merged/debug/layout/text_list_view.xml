@@ -11,4 +11,4 @@
     android:textColor="#5e5e5e"
     android:paddingStart="?android:attr/listPreferredItemPaddingStart"
     android:paddingEnd="?android:attr/listPreferredItemPaddingEnd" />
-<!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/layout/text_list_view.xml -->
+<!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/layout/text_list_view.xml -->
