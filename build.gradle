@@ -24,6 +24,7 @@ task clean(type: Delete) {
 task clone {
 	doLast{
 		Grgit.clone(dir: './proyecto', uri: 'https://github.com/nieltorres/calidad_software.git')
+		print "Repositorio clonado"
 	}
 }
 
@@ -31,6 +32,7 @@ task pull {
 	doLast{
 		def repo = Grgit.open(project.file('.'))
 		repo.pull()
+		print "Repositorio actualizado"
 	}
 }
 
@@ -46,9 +48,14 @@ task push {
 			}
 			i++
 		}
-		repo.checkout(branch: 'gradle', createBranch: true)
-		repo.commit(message: 'Prueba', all: true)
+		repo.checkout(branch: rama, createBranch: true)
+		if(project.hasProperty("comentario")){
+			repo.commit(message: comentario, all: true)
+		}else{
+			repo.commit(message: 'actualizacion', all: true)
+		}
 		repo.push()
 		repo.checkout(branch: 'master')
+		print "Repositorio remoto modificado"
 	}
 }

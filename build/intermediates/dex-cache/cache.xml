@@ -2,18 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\library-2.4.0-cd073de4227a84a47e58992a7029366e6b0ea9eb.jar" />
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-c607aa7e0c60e25533d19eb7a072258fca3027cb.jar" />
     </item>
     <item
-        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-dragdrop\2.1.0\jars\classes.jar"
+        jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="51946b4ca8e38b3be550798723faf47dacb3a444">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-0c53d3e47653360e570d97ecfb45d9b0e8c0a9b6.jar" />
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\lib-core-3.1.0-30ccf64e860b14021cb39c2363610645ddd85126.jar" />
+    </item>
+    <item
+        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-930631c3c9a004272632132f2284edbdd7da87bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1-83cca1753ba311b60ef4984ccaa9f4d0d1e3d177.jar" />
     </item>
     <item
         jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.1.0\jars\classes.jar"
@@ -30,13 +44,6 @@
         <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-e0f5f4553cf260d170353e495e213c1522f6dbee.jar" />
     </item>
     <item
-        jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1-83cca1753ba311b60ef4984ccaa9f4d0d1e3d177.jar" />
-    </item>
-    <item
         jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -49,27 +56,6 @@
         revision="23.0.1"
         sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
         <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-a520c20581e9b73b7bb8c54b14d805f4fc95ad82.jar" />
-    </item>
-    <item
-        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-930631c3c9a004272632132f2284edbdd7da87bc.jar" />
-    </item>
-    <item
-        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-365284181e91051ba808c83c3869cab83fe27ff9.jar" />
-    </item>
-    <item
-        jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\lib-core-3.1.0-30ccf64e860b14021cb39c2363610645ddd85126.jar" />
     </item>
     <item
         jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
@@ -93,6 +79,41 @@
         <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-a1e4b1a1b11a58f417d62818f01e318d5540b850.jar" />
     </item>
     <item
+        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-365284181e91051ba808c83c3869cab83fe27ff9.jar" />
+    </item>
+    <item
+        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-staggeredgrid\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="50229116d50d9475f4a9fc4d497845aa18e9518f">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-ef076af0bf4de9a2a5e5deb5463d16f6fc306a55.jar" />
+    </item>
+    <item
+        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-dragdrop\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51946b4ca8e38b3be550798723faf47dacb3a444">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-0c53d3e47653360e570d97ecfb45d9b0e8c0a9b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\library-2.4.0-cd073de4227a84a47e58992a7029366e6b0ea9eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-4877701e3a98f35273d6588d4214a93f8503c2c9.jar" />
+    </item>
+    <item
         jar="C:\Users\sergi\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\63737e512fcd9e0ebe9bcd0bb375c2dded74116f\lib-manipulation-3.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -107,32 +128,11 @@
         <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-bd83f415b95d42c16791474656397202ae717cd0.jar" />
     </item>
     <item
-        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-c607aa7e0c60e25533d19eb7a072258fca3027cb.jar" />
-    </item>
-    <item
         jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
         <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-dfc91b2d2f6aef680027280dce1b08e15a7091b3.jar" />
-    </item>
-    <item
-        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-extra-staggeredgrid\2.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="50229116d50d9475f4a9fc4d497845aa18e9518f">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-ef076af0bf4de9a2a5e5deb5463d16f6fc306a55.jar" />
-    </item>
-    <item
-        jar="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
-        <dex dex="C:\Users\sergi\Documents\GitHub\calidad_software\app\build\intermediates\pre-dexed\debug\classes-4877701e3a98f35273d6588d4214a93f8503c2c9.jar" />
     </item>
 
 </items>
