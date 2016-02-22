@@ -23,4 +23,4 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 
-</android.support.v4.widget.DrawerLayout><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/layout/activity_mi_cuenta.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/layout/activity_mi_cuenta.xml -->

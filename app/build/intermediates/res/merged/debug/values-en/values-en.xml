@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="action_cerrarsesion">Close session</string>
     <string name="action_idioma">Language</string>

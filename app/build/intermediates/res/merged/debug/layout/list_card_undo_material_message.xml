@@ -35,4 +35,4 @@
         android:fontFamily="@string/font_fontFamily_medium"
         style="@style/list_card_UndoBarButton_material"/>
 
-</LinearLayout><!-- From: file:/home/gabriele/Lavoro/Android/AndroidStudioProjects/wrks/cardslib/library-core/src/main/res/layout/list_card_undo_material_message.xml --><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_material_message.xml -->
+</LinearLayout><!-- From: file:/home/gabriele/Lavoro/Android/AndroidStudioProjects/wrks/cardslib/library-core/src/main/res/layout/list_card_undo_material_message.xml --><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_material_message.xml -->

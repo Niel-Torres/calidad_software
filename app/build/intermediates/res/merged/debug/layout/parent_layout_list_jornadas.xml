@@ -16,4 +16,4 @@
         android:textSize="22sp"
         android:id="@+id/parent_layout" />
 
-</LinearLayout><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/Comunio/app/src/main/res/layout/parent_layout_list_jornadas.xml -->
+</LinearLayout><!-- From: file:/C:/Users/sergi/Documents/GitHub/calidad_software/app/src/main/res/layout/parent_layout_list_jornadas.xml -->
