@@ -36,11 +36,19 @@ task pull {
 
 task push {
 	doLast{
+		def i = 0
+		def rama = 'gradle'
 		def repo = Grgit.open(project.file('.'))
+		def ramas = repo.branch.list()
+		while(ramas.size()>i){
+			if(ramas.get(i).getName()==rama){
+				repo.branch.remove(names: [rama], force:true)
+			}
+			i++
+		}
 		repo.checkout(branch: 'gradle', createBranch: true)
 		repo.commit(message: 'Prueba', all: true)
 		repo.push()
 		repo.checkout(branch: 'master')
-		repo.branch.remove(names: ['gradle'], force: true)
 	}
 }
