@@ -1,6 +1,8 @@
 
 import org.ajoberstar.grgit.*
 
+def cucumberVersion = "1.2.0"
+
 buildscript {
     repositories {
         jcenter()
@@ -11,11 +13,35 @@ buildscript {
     }
 }
 
+dependencies {
+	testCompile 'junit:junit:4.11'
+	testCompile "info.cukes:cucumber-junit:$cucumberVersion"
+	testCompile "info.cukes:cucumber-java:$cucumberVersion"
+}
+
 allprojects {
     repositories {
         jcenter()
     }
 }
+
+configurations {
+	cucumberRuntime {
+		extendsFrom testRuntime
+	}
+}
+
+task cucumber() {
+	dependsOn assemble, compileTestJava
+	doLast {
+		javaexec {
+			main = "cucumber.api.cli.Main"
+			classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
+			args = ['--plugin', 'pretty', '--glue', 'com.ps.comunio.comuniops', 'app\src\test\java\com\example\grupo7\comunio']
+		}
+	}
+}
+build.dependsOn cucumber
 
 task clean(type: Delete) {
     delete rootProject.buildDir
