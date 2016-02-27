@@ -37,7 +37,7 @@ task cucumber() {
 		javaexec {
 			main = "cucumber.api.cli.Main"
 			classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
-			args = ['--plugin', 'pretty', '--glue', 'com.ps.comunio.comuniops', 'app\src\test\java\com\example\grupo7\comunio']
+			args = ['--plugin', 'pretty', '--glue', 'com.example.grupo7.comunio', 'app\src\test\cucumber']
 		}
 	}
 }
