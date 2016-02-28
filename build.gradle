@@ -1,6 +1,8 @@
 
 import org.ajoberstar.grgit.*
 
+apply plugin: 'java'
+
 def cucumberVersion = "1.2.0"
 
 buildscript {
@@ -43,7 +45,7 @@ task cucumber() {
 }
 build.dependsOn cucumber
 
-task clean(type: Delete) {
+task cleanRepetida(type: Delete) {
     delete rootProject.buildDir
 }
 

@@ -1,4 +1,4 @@
-package my.package.name
+package com.example.grupo7.comunio
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
