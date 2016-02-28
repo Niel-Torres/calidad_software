@@ -50,7 +50,7 @@ task clean(type: Delete) {
 task clone {
 	doLast{
 		Grgit.clone(dir: './proyecto', uri: 'https://github.com/nieltorres/calidad_software.git')
-		print "Repositorio clonado"
+		println "Repositorio clonado"
 	}
 }
 
@@ -58,7 +58,7 @@ task pull {
 	doLast{
 		def repo = Grgit.open(project.file('.'))
 		repo.pull()
-		print "Repositorio actualizado"
+		println "Repositorio actualizado"
 	}
 }
 
