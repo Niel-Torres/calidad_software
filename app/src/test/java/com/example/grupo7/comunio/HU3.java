@@ -1,4 +1,4 @@
-package com.example.grupo7.comunio
+package com.example.grupo7.comunio;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-public class MyStepDefinitions {
+public class HU3 {
 
     @Given("^any section of the app$")
     public void any_section_of_the_app() throws Throwable {
